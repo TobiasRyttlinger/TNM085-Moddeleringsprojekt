@@ -23,6 +23,7 @@ l = 30;
 %Number of samples
 N = 3000;
 
+%hej
 
 %Initial position and velocity fot the masses
 x(1,1) = 1;
